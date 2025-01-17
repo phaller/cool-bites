@@ -6,6 +6,6 @@ Cool Bites is (supposed to be) an app for ordering food and earning rewards alon
 * Hot dog with mustard and ketchup (option: add sauerkraut)
 * Hot dog with cheese sauce and jalapeños
 * Classic cheeseburger with lettuce, tomato, onion, pickles, mustard and ketchup
-* Hawaiian pizza
+* [Hawaiian pizza](https://en.wikipedia.org/wiki/Hawaiian_pizza)
 * Vegan burger with fried tofu patty and charamelized onions, optionally with gluten-free bun
 * Vegan greek pizza
