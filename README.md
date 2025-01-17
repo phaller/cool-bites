@@ -1,4 +1,4 @@
-# cool-bites
+# Cool Bites -- Your Friendly Restaurant
 
 Cool Bites is (supposed to be) an app for ordering food and earning rewards along the way. (Who doesn't want to earn rewards...)
 
